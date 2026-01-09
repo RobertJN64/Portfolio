@@ -1,5 +1,7 @@
 ## Robert Nies: Portfolio
 
+LinkedIn: https://www.linkedin.com/in/robertnies/
+
 Download the .pdf from [here](/Portfolio%20-%20Robert%20Nies.pdf).
 
 ![Image 1](/images/Portfolio%20-%20Robert%20Nies%20-%20Oct%202025-1.png)
